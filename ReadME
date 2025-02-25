@@ -1,0 +1,19 @@
+🌊 Waveday – Your Ultimate Surfing Companion
+Waveday is a powerful surfing app designed to help users find and save their favorite beaches while providing real-time surf conditions for an optimal surfing experience. Whether you're a beginner or a seasoned pro, Waveday delivers accurate, up-to-date information to ensure you catch the perfect wave.
+
+🚀 Core Functionalities
+✅ Search & Explore Beaches – Easily search for beaches and discover surf spots worldwide.
+✅ Real-Time Surf Conditions – Get live updates on wave height, wind speed, water temperature, and more.
+✅ Hourly Forecasts & Graphical Data – Visual graphs and hourly weather details help you plan your sessions better.
+✅ Save Favorite Beaches – Bookmark your go-to surf spots for quick access.
+✅ User-Friendly Interface – Clean, modern UI with smooth navigation.
+
+🛠 Technologies Used
+Flutter – Cross-platform development for iOS & Android
+Dart – Programming language for efficient performance
+Google Maps API – Location-based beach search
+Weather API – Fetching real-time surf conditions
+Firebase – User authentication and cloud storage
+Provider – State management for smooth UI interactions
+📸 Screenshots
+
