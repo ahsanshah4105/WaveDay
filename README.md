@@ -1,29 +1,33 @@
-# **MVVM Architecture - Flutter**
+# **Waveday - Surfing Companion App 🌊**  
 
-This repository contains a **Flutter app** built using the **MVVM (Model-View-ViewModel)** architecture. It ensures a **clean code structure, separation of concerns, and improved maintainability**.
+waveday is an innovative **surfing app** designed to help users **find and save their favorite beaches** while providing **real-time surf conditions**, including **wave height, wind speed, and water temperature**. whether you're a beginner or an experienced surfer, waveday offers everything you need to **plan your next ride on the waves**.  
 
----
-
-## **🚀 Features**
-✅ Follows **MVVM Architecture**  
-✅ Uses **Provider** for state management (**Flutter**) / **LiveData & ViewModel** (**Android**)  
-✅ **Clean and scalable** project structure  
-✅ **API integration** with **Retrofit (Android)** / **Dio (Flutter)**  
-✅ **Responsive UI**  
-✅ **Dependency Injection**  
+with an intuitive **search function**, users can **explore beaches** and view **detailed surf insights**, including **visual graphs and hourly data**, enabling them to make **informed decisions** for their surf sessions.  
 
 ---
 
-## **🛠 Technologies Used**
+## **🚀 core functionalities**  
 
-### **Frontend**
-- **Flutter**: Dart, Provider, Dio  
-- **State Management**: Provider (Flutter), ViewModel + LiveData (Android)  
-- **Networking**: Dio (Flutter), Retrofit (Android)  
-- **UI Design**: Material Design  
+✅ **find and save favorite beaches** for quick access  
+✅ **real-time surf conditions** (wave height, wind speed, water temperature)  
+✅ **search and explore beaches effortlessly**  
+✅ **detailed surf insights** with **interactive visual graphs**  
+✅ **hourly weather updates** for better surf planning  
+✅ **modern and responsive ui** with **dark mode support**  
 
-### **Backend & Storage**
-- **Local Database**: SharedPreferences  
+---
+
+## **🛠 technologies used**  
+
+### **frontend**  
+- **flutter**: dart, provider, dio  
+- **state management**: provider (flutter), viewmodel + livedata (android)  
+- **networking**: dio (flutter), retrofit (android)  
+- **ui design**: material design  
+
+### **backend & storage**  
+- **database**: sharedpreferences and firebase  
+ 
 
 ## **📸  ScreenShots **
 
